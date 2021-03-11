@@ -98,7 +98,7 @@ nav{
 .mobile-menu-btn{
     z-index: 3;
     position: fixed;
-    top: 32px;
+    top: 33px;
     right: 20px;
     font-size: 32px;
     transition: 1000ms ease all;
